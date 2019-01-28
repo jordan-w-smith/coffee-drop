@@ -1,0 +1,136 @@
+header {
+    background-image: url(images/heroimage.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 30px;
+}
+
+.navbar-brand-custom {
+    color: white;
+}
+.brand {
+    font-size: 30px;
+    color: white;
+}
+.nav-link-style {
+    color: white;
+}
+
+.navbar-dark a {
+    
+}
+
+.main-nav-link {
+    margin-right: 50px;
+}
+
+.navbar, .main-nav, .top-nav, .row .nav .navbar{
+    float: right;
+}
+
+@media only screen and (max-width: 600px) {
+    .navbar {
+    /*display: inline; */
+}
+    
+    
+}
+
+.logo {
+  /*  margin-left: 30px */
+}
+
+.header-heading {
+    color:white;
+    margin-top: 120px;
+    margin-bottom: 20px;
+}
+
+.header-p {
+    color: white;
+}
+
+.application-store-logos {
+    margin-right: 10px;
+    margin-top: 30px;
+}
+
+.app-mockup {
+    max-width: 100%;
+}
+
+.how-it-works-title {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.how-it-works-col {
+    text-align: center;
+}
+
+.how-it-works-icon {
+    padding-bottom: 30px;
+}
+
+.pricing-container {
+    text-align: center;
+    background-color: #373737;
+    margin-top: 100px;
+}
+
+.pricing-title {
+    padding-bottom: 50px;
+    margin-top: 80px;
+    color: white;
+}
+
+.pricing-list {
+    margin-top: 30px;
+    padding-bottom: 100px;
+}
+
+.pricing-table-heading {
+    text-align: center;
+    color: #2ee5a9;
+    font-size: 22px
+}
+
+.list-group-item {
+    background-color: #4e4e4e;
+    color: white;
+}
+
+.list-group-item:nth-of-type(2) {
+    background-color: #626262;
+}
+
+.map {
+    height:600px;
+}
+
+.footer-col {
+    margin-left: auto;
+    margin-right: auto;
+    width: 170px;
+}
+
+footer {
+    background-color: #373737;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.footer-text {
+    color: white;
+}
+.how-it-works-text {
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.coffee-bean-icon {
+    position:absolute;
+    margin-top: -7px;
+    margin-left: -15px;
+}
